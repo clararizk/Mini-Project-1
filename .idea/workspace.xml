@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5defb8ac-715b-4db1-9bd5-7bf31a0ce521" name="Changes" comment="creation 1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Aquilina143&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/clararizk/Mini-Project-1.git&quot;,
+    &quot;accountId&quot;: &quot;3d35717f-54fd-430d-8ee9-f6f77c960e15&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3BG4TfgeKI0YEsjvOvYC6fJGZNN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testMain.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aquilina\IdeaProjects\miniproject2\src\main\java\com\example\demo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloApplication" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-25" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.miniproject2.HelloApplication" />
+      <module name="miniproject2" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\Aquilina\.m2\repository\org\openjfx\javafx-base\21.0.6;C:\Users\Aquilina\.m2\repository\org\openjfx\javafx-controls\21.0.6;C:\Users\Aquilina\.m2\repository\org\openjfx\javafx-graphics\21.0.6;C:\Users\Aquilina\.m2\repository\org\openjfx\javafx-fxml\21.0.6&quot; --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.base" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="miniproject2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="miniproject2" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5defb8ac-715b-4db1-9bd5-7bf31a0ce521" name="Changes" comment="" />
+      <created>1774102085480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774102085480</updated>
+      <workItem from="1774102088642" duration="3002000" />
+      <workItem from="1774168671830" duration="1765000" />
+      <workItem from="1774174275239" duration="637000" />
+      <workItem from="1774186123742" duration="172000" />
+      <workItem from="1774186881897" duration="841000" />
+      <workItem from="1774189032122" duration="439000" />
+      <workItem from="1774254060329" duration="211000" />
+      <workItem from="1774254671875" duration="3754000" />
+      <workItem from="1774259771601" duration="335000" />
+      <workItem from="1774260174815" duration="761000" />
+      <workItem from="1774262317979" duration="7000" />
+      <workItem from="1774262454887" duration="509000" />
+    </task>
+    <task id="LOCAL-00001" summary="creation of application">
+      <option name="closed" value="true" />
+      <created>1774172993509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774172993510</updated>
+    </task>
+    <task id="LOCAL-00002" summary="creation of application">
+      <option name="closed" value="true" />
+      <created>1774174518928</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774174518928</updated>
+    </task>
+    <task id="LOCAL-00003" summary="creation of application">
+      <option name="closed" value="true" />
+      <created>1774174694371</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774174694371</updated>
+    </task>
+    <task id="LOCAL-00004" summary="creation 1">
+      <option name="closed" value="true" />
+      <created>1774187643656</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774187643657</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="creation of application" />
+    <MESSAGE value="creation 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="creation 1" />
+  </component>
+</project>
